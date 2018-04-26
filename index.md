@@ -1,23 +1,23 @@
 # Welcome to My page
 
-### Self-introduction
+## Self-introduction
 ```markdown
-・graduate student at Keio University
+・Graduate Student at Keio University
 ・Cyber Security
-・malware Analysis and Network Security
+・Malware Analysis and Network Security
 ・statistics
-・CTF
+・CTF etc
 ```
 
 ## Contact
-```markdown
-・ykusama@keio.jp
+・[ykusama@keio.jp](ykusama@keio.jp)
     ...For academic activities
-・yotti@sfc.wide.ad.jp
+・[yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)
     ....For labs mail
-・a2gwhitex@icloud.com
+・[a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)
     ....anything
-```
+    
+    
 [@yocchii](https://twitter.com/yocchii)
 [ykusama@keio.jp](ykusama@keio.jp)
 ## Activities
