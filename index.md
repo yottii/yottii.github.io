@@ -1,6 +1,5 @@
 # Welcome to My page
-Hi!! myname is yotti!!
-![徹す](http://takashi1016.com/wp-content/uploads/2013/12/bitcoin1-500x500.png)
+
 ### Self-introduction
 ```markdown
 ・graduate student at Keio University
@@ -13,13 +12,19 @@ Hi!! myname is yotti!!
 ## Contact
 ```markdown
 ・[ykusama@keio.jp](ykusama@keio.jp)
-・Cyber Security
-・malware Analysis and Network Security
-・statistics
-・CTF
+    ...For academic activities
+・[yotti@sfc.wide.ad.jp](yotti@sfc.wide.ad.jp)
+    ....For labs mail
+・[a2gwhitex@icloud.com](a2gwhitex@icloud.com)
+    ....anything
 ```
-   ・
-   ・[yotti@](ykusama@keio.jp)
+
+## Activities
+```markdown
+twitter: [@yocchii](https://twitter.com/yocchii_?lang=ja)
+GitHub: Constellation
+Blog: Constellation Scorpius
+```
 You can use the [editor on GitHub](https://github.com/yottii/yottii.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
