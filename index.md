@@ -42,7 +42,7 @@
 ### Reference
 1.Yoshiki Kusama, Masahiro Hayashi, Akitoshi Wada,"Study of Security Problem of Networks",電子情報通信学会総合大会,2018
 
-2.Yoshiki Kusama, Masahiro Hayashi, "Study of Security Problem of Networks",LANMAN2018,2018 **Not yet passed
+2.Yoshiki Kusama, Masahiro Hayashi, "Study of Security Problem of Networks",LANMAN2018,2018 **Not yet passed**
 
 ```markdown
 Syntax highlighted code block
