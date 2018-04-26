@@ -3,15 +3,15 @@
 
    
 ### Markdown
-   ### Self-introduction
+### Self-introduction
 	
-    ・graduate student at Keio University
-	 ・Cyber Security
-	 ・malware Analysis and Network Security
-	 ・statistics
-	 ・CTF
-   
-   ##Contact
+・graduate student at Keio University
+・Cyber Security
+・malware Analysis and Network Security
+・statistics
+・CTF
+
+## Contact
    ・[ykusama@keio.jp](ykusama@keio.jp)
    ・[yotti@](ykusama@keio.jp)
 You can use the [editor on GitHub](https://github.com/yottii/yottii.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
