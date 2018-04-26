@@ -8,6 +8,7 @@
 - I love a green tea!!
 ```
 
+
 ## Contact
 - [ykusama@keio.jp](ykusama@keio.jp)...For academic activities
 
@@ -15,10 +16,12 @@
 
 - [a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
 
+
 ## Activities
 - twitter: [@yocchii_](https://twitter.com/yocchii_)
 - GitHub: [yottii](https://github.com/yottii)
 - Blog: [hatena](http://yottiii.hatenablog.com/)
+
 
 ## Interests
 ```markdown
@@ -27,6 +30,7 @@
 - statistics
 - CTF etc
 ```
+
 
 ## Achivement
 ```markdown
@@ -37,9 +41,8 @@
 
 ### Reference
 1.Yoshiki Kusama, Masahiro Hayashi, Akitoshi Wada,"Study of Security Problem of Networks",電子情報通信学会総合大会,2018
-2.Yoshiki Kusama, Masahiro Hayashi, "Study of Security Problem of Networks",LANMAN2018,2018 **Not yet passed
 
-- test
+2.Yoshiki Kusama, Masahiro Hayashi, "Study of Security Problem of Networks",LANMAN2018,2018 **Not yet passed
 
 ```markdown
 Syntax highlighted code block
