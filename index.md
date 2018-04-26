@@ -1,11 +1,11 @@
-# Welcome to My page
+# _Welcome to My page_
 
 ## Self-introduction
 ```markdown
-- _Graduate Student at Keio University_
-- _Virtual Money Trade(I'm losting...)_
-- _I'm usually sleeping....zzZ_
-- _I love a green tea!!_
+- Graduate Student at Keio University
+- Virtual Money Trade(I'm losting...)
+- I'm usually sleeping....zzZ
+- I love a green tea!!
 ```
 
 
