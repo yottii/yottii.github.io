@@ -11,6 +11,7 @@
 
 ## Contact
 ```markdown
+[ykusama@keio.jp](ykusama@keio.jp)
 ・[ykusama@keio.jp](ykusama@keio.jp)
     ...For academic activities
 ・[yotti@sfc.wide.ad.jp](yotti@sfc.wide.ad.jp)
