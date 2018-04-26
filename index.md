@@ -11,13 +11,11 @@
 
 ## Contact
 ・[ykusama@keio.jp](ykusama@keio.jp)...For academic activities
-
 ・[yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
-
 ・[a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
     
     
-[@yocchii](https://twitter.com/yocchii)
+[@yocchii](https://twitter.com/yocchii_)
 [ykusama@keio.jp](ykusama@keio.jp)
 ## Activities
 ```markdown
