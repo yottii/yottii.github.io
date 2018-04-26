@@ -2,37 +2,37 @@
 
 ## Self-introduction
 ```markdown
-・Graduate Student at Keio University
-・Virtual Money Trade(I'm losting...)
-・I'm usually sleeping....zzZ
-・I love a green tea!!
+- Graduate Student at Keio University
+- Virtual Money Trade(I'm losting...)
+- I'm usually sleeping....zzZ
+- I love a green tea!!
 ```
 
 ## Contact
-・[ykusama@keio.jp](ykusama@keio.jp)...For academic activities
+- [ykusama@keio.jp](ykusama@keio.jp)...For academic activities
 
-・[yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
+- [yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
 
-・[a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
+- [a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
 
 ## Activities
-twitter: [@yocchii_](https://twitter.com/yocchii_)
-GitHub: [yottii](https://github.com/yottii)
-Blog: [hatena](http://yottiii.hatenablog.com/)
+-twitter: [@yocchii_](https://twitter.com/yocchii_)
+-GitHub: [yottii](https://github.com/yottii)
+-Blog: [hatena](http://yottiii.hatenablog.com/)
 
 ## Interests
 ```markdown
-・Cyber Security
-・Malware Analysis and Network Security
-・statistics
-・CTF etc
+- Cyber Security
+- Malware Analysis and Network Security
+- statistics
+- CTF etc
 ```
 
 ## Achivement
 ```markdown
-・SecurityCamp2018
-・LPIC level 1
-・CTF Biginar's
+- SecurityCamp2018
+- LPIC level 1
+- CTF Biginar's
 ```
 
 ### Reference
