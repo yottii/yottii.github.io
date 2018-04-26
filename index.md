@@ -2,10 +2,10 @@
 
 ## Self-introduction
 ```markdown
-- Graduate Student at Keio University
-- Virtual Money Trade(I'm losting...)
-- I'm usually sleeping....zzZ
-- I love a green tea!!
+- _Graduate Student at Keio University_
+- _Virtual Money Trade(I'm losting...)_
+- _I'm usually sleeping....zzZ_
+- _I love a green tea!!_
 ```
 
 
