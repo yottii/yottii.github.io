@@ -11,9 +11,7 @@
 
 ## Contact
 - [ykusama@keio.jp](ykusama@keio.jp)...For academic activities mail
-
 - [yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
-
 - [a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything mail
 
 
