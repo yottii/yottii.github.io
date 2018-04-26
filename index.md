@@ -11,17 +11,29 @@
 
 ## Contact
 ・[ykusama@keio.jp](ykusama@keio.jp)...For academic activities
+
 ・[yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
+
 ・[a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
-    
-    
-[@yocchii](https://twitter.com/yocchii_)
-[ykusama@keio.jp](ykusama@keio.jp)
+
 ## Activities
+twitter: [@yocchii_](https://twitter.com/yocchii_)
+GitHub: [yottii](https://github.com/yottii)
+Blog: [hatena](http://yottiii.hatenablog.com/)
+
+## Interests
 ```markdown
-twitter: [@yocchii](https://twitter.com/yocchii)
-GitHub: Constellation
-Blog: Constellation Scorpius
+・Programing
+   ・python
+   ・C
+   ・C++(Unity)
+   ・web(html,javascript,node.js)
+   ・swift(Iphone)
+ ・LINUX
+   ・Debian
+   ・Cent
+・Paket Analysis
+　・WireShake
 ```
 You can use the [editor on GitHub](https://github.com/yottii/yottii.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
