@@ -1,6 +1,6 @@
 # Welcome to My page
 Hi!! myname is yotti!!
-![Image](http://takashi1016.com/bitcoin-6783)
+![http://takashi1016.com/bitcoin-6783](http://takashi1016.com/bitcoin-6783)
 ### Self-introduction
 ```markdown
 ・graduate student at Keio University
