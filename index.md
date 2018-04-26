@@ -16,9 +16,9 @@
 - [a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything
 
 ## Activities
--twitter: [@yocchii_](https://twitter.com/yocchii_)
--GitHub: [yottii](https://github.com/yottii)
--Blog: [hatena](http://yottiii.hatenablog.com/)
+- twitter: [@yocchii_](https://twitter.com/yocchii_)
+- GitHub: [yottii](https://github.com/yottii)
+- Blog: [hatena](http://yottiii.hatenablog.com/)
 
 ## Interests
 ```markdown
