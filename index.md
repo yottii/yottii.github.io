@@ -11,18 +11,18 @@
 
 ## Contact
 ```markdown
-[ykusama@keio.jp](ykusama@keio.jp)
-・[ykusama@keio.jp](ykusama@keio.jp)
+・ykusama@keio.jp
     ...For academic activities
-・[yotti@sfc.wide.ad.jp](yotti@sfc.wide.ad.jp)
+・yotti@sfc.wide.ad.jp
     ....For labs mail
-・[a2gwhitex@icloud.com](a2gwhitex@icloud.com)
+・a2gwhitex@icloud.com
     ....anything
 ```
-
+[@yocchii](https://twitter.com/yocchii)
+[ykusama@keio.jp](ykusama@keio.jp)
 ## Activities
 ```markdown
-twitter: [@yocchii](https://twitter.com/yocchii_?lang=ja)
+twitter: [@yocchii](https://twitter.com/yocchii)
 GitHub: Constellation
 Blog: Constellation Scorpius
 ```
