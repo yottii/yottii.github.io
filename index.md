@@ -1,6 +1,6 @@
 # Welcome to My page
 
-## name:Yoshiki Kusama
+## name:yotti
 ## Self-introduction
 ```markdown
 - Graduate Student at Keio University
