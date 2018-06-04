@@ -20,7 +20,7 @@
 - twitter: [@yocchii_](https://twitter.com/yocchii_)
 - GitHub: [yottii](https://github.com/yottii)
 - Blog: [hatena](http://yottiii.hatenablog.com/)
-- CTF : {SSSec} Triple sec (https://ctftime.org/team/59230)
+- CTF : [{SSSec}](https://ctftime.org/team/59230) Triple sec 
 
 
 ## Interests
