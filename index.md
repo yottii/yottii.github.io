@@ -4,15 +4,13 @@
 ## Self-introduction
 ```markdown
 - Graduate Student at Keio University
-- Virtual Money Trade(I'm losting...)
-- I'm usually sleeping....zzZ
-- I love a green tea!!
 ```
 
 
 ## Contact
 - [ykusama@keio.jp](ykusama@keio.jp)...For academic activities mail
-- [yotti@sfc.wide.ad.jp](otti@sfc.wide.ad.jp)....For labs mail
+- [yotti@sfc.wide.ad.jp](yotti@sfc.wide.ad.jp)....For labs mail
+- [yoshiki.kusama@linecorp.com](yoshiki.kusama@linecorp.com)...For company mail
 - [a2gwhitex@yahoo.co.jp](a2gwhitex@yahoo.co.jp)....anything mail
 
 
@@ -25,8 +23,10 @@
 
 ## Interests
 ```markdown
-- Cyber Security
-- Malware Analysis and Network Security
+- Security such as
+   - malware
+   - Reverse Engineering
+   - Forengic
 - statistics
 - CTF etc
 ```
@@ -38,8 +38,6 @@ SECURITYFASTCTF2018 181
 ## Achivement
 ```markdown
 - SecurityCamp2018
-- LPIC level 1
-- CTF Biginar's
 ```
 
 
