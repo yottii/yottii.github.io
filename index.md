@@ -33,7 +33,7 @@ favorite things : Snoopy, green tea, linux, apple...etc
 - Security such as
    - malware
    - Reverse Engineering
-   - Forengic
+   - Forensic
 - statistics
 - CTF etc
 ```
