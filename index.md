@@ -11,8 +11,6 @@ jobs:  graduate student at keio university(Main)
 Majority: CyberSecurity
 hobby: CTF, making music,billiards
 favorite things : Snoopy, green tea, linux, apple...etc
-
-
 ```
 
 
