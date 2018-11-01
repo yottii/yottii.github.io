@@ -1,9 +1,18 @@
-# Welcome to My page
+# Welcome to My page and Thank you for visit my WebSite
 
 ## name:yotti
 ## Self-introduction
 ```markdown
-- Graduate Student at Keio University
+Name: Yoshiki Kusama(yotti)
+born: Sep 1, 1995
+Birthplace: Hokkaido
+jobs:  graduate student at keio university(Main)
+       Security Engineer at Linecorp
+Majority: CyberSecurity
+hobby: CTF, making music,billiards
+favorite things : Snoopy, green tea, linux, apple...etc
+
+
 ```
 
 
