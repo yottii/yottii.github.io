@@ -49,7 +49,7 @@ SECURITYFASTCTF2018 181
 
 
 ## Reference
-1.Yoshiki Kusama, Masahiro Hayashi, Akitoshi Wada,"通信ネットワークのセキュリティに関する一検討",電子情報通信学会総合大会,2018
+1.Yoshiki Kusama, Masahiro Hayashi, Akitoshi Wada,"通信ネットワークのセキュリティに関する一検討",信学技報, vol. 118, no. 212, ISEC2018-50, pp. 1-5, 201809.
 
 2.Yoshiki Kusama, Masahiro Hayashi, "Study of Security Problem of Networks",LANMAN2018,2018 **Not yet passed**
 
